@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ea0d10910c92f20744bc39ab59392ccf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9d4f7d57a237efcf6d95e00d5f9bf1fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/70ac83cf419b0307380f7acce657075b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cd77e3d26bbb95c6ea8b944d761d03cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/11b6342304bc22d0e710a2a066f69c09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8c3b5cafd0626abd9f277ce656d7d02c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cc1d4cfcfd50a78b44b1208bd70abb7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/19a8681bee2562941309a3c05c4e4bbb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/088a360d8d7c5cb86d90c86cab21f4ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/23fa46f4de3fc781012b58e152f1af60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cea4491b8061b316b14c4c16fff996c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86032db0f297bba3a26fa1de90aa8839/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1c5531572536c347c9a2cd707c5befed/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f2b7a5550071d79ec4a5bb1069bca166/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8072c6226e30f4abd9a9eec5e6442ef8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/264ccd0d1f4754c7b5071937308e6331/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a74a17930b8d19e1ef90ab70e3c80d52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5ad320d39f9df8885d8327dd4057068b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/75c43ec1feadefe8b8fcb24d5e50f9c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/886f7061678f0f1c47cd09a4f515dcac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/49ad3984a97142447e8119ffd345b186/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1c622f2953c89e53ccdb6dbbec362b2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b52945b4066815337d4342136cacb0c4/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86032db0f297bba3a26fa1de90aa8839/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86032db0f297bba3a26fa1de90aa8839/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5ad320d39f9df8885d8327dd4057068b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5ad320d39f9df8885d8327dd4057068b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86032db0f297bba3a26fa1de90aa8839/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:17:9-32
+	android:icon
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#co.appbrewery.micard.MainActivity
+ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ea0d10910c92f20744bc39ab59392ccf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ea0d10910c92f20744bc39ab59392ccf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9d4f7d57a237efcf6d95e00d5f9bf1fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9d4f7d57a237efcf6d95e00d5f9bf1fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/70ac83cf419b0307380f7acce657075b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/70ac83cf419b0307380f7acce657075b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cd77e3d26bbb95c6ea8b944d761d03cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cd77e3d26bbb95c6ea8b944d761d03cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/11b6342304bc22d0e710a2a066f69c09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/11b6342304bc22d0e710a2a066f69c09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8c3b5cafd0626abd9f277ce656d7d02c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8c3b5cafd0626abd9f277ce656d7d02c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cc1d4cfcfd50a78b44b1208bd70abb7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cc1d4cfcfd50a78b44b1208bd70abb7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/19a8681bee2562941309a3c05c4e4bbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/19a8681bee2562941309a3c05c4e4bbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/088a360d8d7c5cb86d90c86cab21f4ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/088a360d8d7c5cb86d90c86cab21f4ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/23fa46f4de3fc781012b58e152f1af60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/23fa46f4de3fc781012b58e152f1af60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cea4491b8061b316b14c4c16fff996c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cea4491b8061b316b14c4c16fff996c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86032db0f297bba3a26fa1de90aa8839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86032db0f297bba3a26fa1de90aa8839/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1c5531572536c347c9a2cd707c5befed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1c5531572536c347c9a2cd707c5befed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f2b7a5550071d79ec4a5bb1069bca166/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f2b7a5550071d79ec4a5bb1069bca166/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8072c6226e30f4abd9a9eec5e6442ef8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8072c6226e30f4abd9a9eec5e6442ef8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/264ccd0d1f4754c7b5071937308e6331/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/264ccd0d1f4754c7b5071937308e6331/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a74a17930b8d19e1ef90ab70e3c80d52/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a74a17930b8d19e1ef90ab70e3c80d52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5ad320d39f9df8885d8327dd4057068b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5ad320d39f9df8885d8327dd4057068b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/75c43ec1feadefe8b8fcb24d5e50f9c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/75c43ec1feadefe8b8fcb24d5e50f9c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/886f7061678f0f1c47cd09a4f515dcac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/886f7061678f0f1c47cd09a4f515dcac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/49ad3984a97142447e8119ffd345b186/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/49ad3984a97142447e8119ffd345b186/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1c622f2953c89e53ccdb6dbbec362b2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1c622f2953c89e53ccdb6dbbec362b2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b52945b4066815337d4342136cacb0c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ritwikghosh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b52945b4066815337d4342136cacb0c4/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ritwikghosh/AndroidStudioProjects/mi_card_flutter/android/app/src/main/AndroidManifest.xml

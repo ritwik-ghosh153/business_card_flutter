@@ -80,7 +80,30 @@ class MyApp extends StatelessWidget {
                     ),
                   ),
                 ),
-              )
+              ),
+              SizedBox(
+                height:20.0,
+                width: 270.0,
+                child: Divider(
+                  color: Colors.teal[100],
+                ),
+              ),
+              Text(
+                'My website:',
+                style: TextStyle(
+                    fontFamily: 'SourceSansPro',
+                    fontSize: 20.0,
+                    color: Colors.teal[100],
+                    fontWeight: FontWeight.bold,
+                    letterSpacing: 2.5,
+                ),
+              ),
+              SizedBox(
+                height: 10.0,
+              ),
+              Image(
+                image: AssetImage('images/QRcode.png')
+              ),
             ],
           ),
         ),
